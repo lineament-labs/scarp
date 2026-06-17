@@ -4,12 +4,12 @@
 
 Scarp is an open-source, local-first fitness and workout management engine designed to bridge high-performance data tracking with absolute athletic control. 
 
-## 🛠️ Core Tech Stack (Lite Edition)
+## Core Tech Stack (Lite Edition)
 * **Frontend:** Angular (v18+) utilizing Signals for reactive, granular state management.
 * **Architecture:** Standalone, modular design tokens mapped from the Stratum enterprise boilerplate.
 * **Storage:** Local-first IndexedDB offline storage for zero-latency tracking and absolute data privacy.
 
-## 🎯 Flagship Features
+## Flagship Features
 * **Precise Routine Builder:** Dynamic layouts to construct targeted workouts and progression schemes.
 * **Active Tracker Interface:** Distraction-free active session tracking with integrated rest mechanics.
 * **Volume Analytics:** Local progressive overload visualizer mapping volume trends over time.
